@@ -38,14 +38,14 @@
   * Реализован класс-генератор тестовых данных - <a href="https://github.com/Nephedov/9.2.Automated-Testing/blob/main/src/test/java/netology/data/DataGenerator.java">DataGenerator.java</a>.
   * Реализован класс с <a href="https://github.com/Nephedov/9.2.Automated-Testing/blob/main/src/test/java/netology/test/CardOrderDeliveryChangeDateTest.java">автотестами</a>.
 
-## Задача №1: проснулись (Allure)
+## Описание Задания №1: проснулись (Allure)
 
 Вам нужно:   
 * взять ваш проект и прикрутить туда Allure, интегрированный с Selenide 
 * удостоверится, что при локальном запуске всё работает, отчёты генерируются, скриншоты прикрепляются, и вы можете их посмотреть через Allure 
 * приложить в файл README репозитория скриншоты отчета Allure, изображения будет удобным вставить из буфера обмена в вебинтерфейсе Github в режиме редактирования файла README.md
 
-## Задача №2: Report Portal (необязательная)
+## Описание Задания №2: Report Portal (необязательная)
 
 Что нужно сделать: попробовать интегрировать ваш проект тестирования доставки карт с Report Portal. Нам будет достаточно, если логи вашего теста будут отправляться в запущенный экземпляр Report Portal.
 
