@@ -38,6 +38,10 @@
   * Реализован класс-генератор тестовых данных - <a href="https://github.com/Nephedov/9.2.Automated-Testing/blob/main/src/test/java/netology/data/DataGenerator.java">DataGenerator.java</a>.
   * Реализован класс с <a href="https://github.com/Nephedov/9.2.Automated-Testing/blob/main/src/test/java/netology/test/CardOrderDeliveryChangeDateTest.java">автотестами</a>.
 
+---
+---
+
+
 ## Описание Задания №1: проснулись (Allure)
 
 Вам нужно:   
